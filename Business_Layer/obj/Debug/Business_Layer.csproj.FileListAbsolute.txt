@@ -1,0 +1,11 @@
+D:\.NET Oracle\AppCliente\Business_Layer\bin\Debug\Business_Layer.dll
+D:\.NET Oracle\AppCliente\Business_Layer\bin\Debug\Business_Layer.pdb
+D:\.NET Oracle\AppCliente\Business_Layer\bin\Debug\DataAccess.dll
+D:\.NET Oracle\AppCliente\Business_Layer\bin\Debug\Entity_Layer.dll
+D:\.NET Oracle\AppCliente\Business_Layer\bin\Debug\DataAccess.pdb
+D:\.NET Oracle\AppCliente\Business_Layer\bin\Debug\Entity_Layer.pdb
+D:\.NET Oracle\AppCliente\Business_Layer\obj\Debug\Business_Layer.csprojAssemblyReference.cache
+D:\.NET Oracle\AppCliente\Business_Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+D:\.NET Oracle\AppCliente\Business_Layer\obj\Debug\Business_Layer.csproj.CopyComplete
+D:\.NET Oracle\AppCliente\Business_Layer\obj\Debug\Business_Layer.dll
+D:\.NET Oracle\AppCliente\Business_Layer\obj\Debug\Business_Layer.pdb

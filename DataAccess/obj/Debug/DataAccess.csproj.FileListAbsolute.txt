@@ -1,0 +1,9 @@
+D:\.NET Oracle\AppCliente\DataAccess\bin\Debug\DataAccess.dll
+D:\.NET Oracle\AppCliente\DataAccess\bin\Debug\DataAccess.pdb
+D:\.NET Oracle\AppCliente\DataAccess\bin\Debug\Entity_Layer.dll
+D:\.NET Oracle\AppCliente\DataAccess\bin\Debug\Entity_Layer.pdb
+D:\.NET Oracle\AppCliente\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\.NET Oracle\AppCliente\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\.NET Oracle\AppCliente\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\.NET Oracle\AppCliente\DataAccess\obj\Debug\DataAccess.dll
+D:\.NET Oracle\AppCliente\DataAccess\obj\Debug\DataAccess.pdb

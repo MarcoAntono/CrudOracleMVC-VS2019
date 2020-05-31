@@ -1,0 +1,6 @@
+D:\.NET Oracle\AppCliente\Entity_Layer\bin\Debug\Entity_Layer.dll
+D:\.NET Oracle\AppCliente\Entity_Layer\bin\Debug\Entity_Layer.pdb
+D:\.NET Oracle\AppCliente\Entity_Layer\obj\Debug\Entity_Layer.csprojAssemblyReference.cache
+D:\.NET Oracle\AppCliente\Entity_Layer\obj\Debug\Entity_Layer.csproj.CoreCompileInputs.cache
+D:\.NET Oracle\AppCliente\Entity_Layer\obj\Debug\Entity_Layer.dll
+D:\.NET Oracle\AppCliente\Entity_Layer\obj\Debug\Entity_Layer.pdb
